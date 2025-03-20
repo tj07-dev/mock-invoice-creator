@@ -1,0 +1,49 @@
+# Python Virtual Environment
+venv/
+env/
+*.venv/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Flask Static Generated Files
+static/*.pdf
+!static/previews/*.pdf 
+
+# Logs
+*.log
+logs/
+
+# Dependency Management
+Pipfile.lock
+requirements.txt  # Optional: Include if you manually maintain it
+
+# OS Generated Files
+.DS_Store  # MacOS
+Thumbs.db  # Windows
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Testing/Coverage
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+temp/

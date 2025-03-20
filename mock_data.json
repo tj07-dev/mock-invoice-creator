@@ -1,0 +1,96 @@
+{
+    "company_info": {
+        "name": "TJ Solutions",
+        "address": "123 Galaxy Rd, Mars City, MC 45678",
+        "email": "billing@nagarro.com",
+        "phone": "+1-800-555-1234"
+    },
+    "product_categories": {
+        "Electronics": [
+            "Dell XPS 13 Laptop",
+            "Samsung 32-inch Monitor",
+            "Apple AirPods Pro",
+            "Logitech Wireless Mouse",
+            "HP LaserJet Printer",
+            "Sony WH-1000XM5 Headphones",
+            "Asus ROG Gaming Laptop",
+            "LG 27-inch OLED Monitor"
+        ],
+        "Office Supplies": [
+            "Staples A4 Paper (500 sheets)",
+            "Pilot G2 Gel Pen (Pack of 12)",
+            "Post-it Notes (3x3, 100 sheets)",
+            "Brother Ink Cartridge",
+            "Steelcase Office Chair",
+            "Sharpie Permanent Markers (Pack of 5)",
+            "3M Scotch Tape Dispenser",
+            "Fellowes Paper Shredder"
+        ],
+        "Services": [
+            "Web Development (Hourly)",
+            "Graphic Design Consultation",
+            "IT Support (Monthly)",
+            "Cloud Hosting Plan",
+            "Marketing Campaign Setup",
+            "SEO Optimization Package",
+            "Data Analysis Service",
+            "Legal Consultation"
+        ],
+        "Furniture": [
+            "IKEA Desk (120x60 cm)",
+            "Herman Miller Ergonomic Chair",
+            "Wooden Bookshelf (3-tier)",
+            "Conference Table (8-seater)",
+            "Filing Cabinet (Metal)",
+            "Adjustable Standing Desk",
+            "Leather Executive Chair",
+            "Modular Storage Unit"
+        ]
+    },
+    "uber_ride_data": {
+        "name": "Uber Technologies",
+        "address": "1455 Market St, San Francisco, CA 94103",
+        "email": "support@uber.com",
+        "items": [
+            {
+                "name": "Base Fare",
+                "price": 2.50
+            },
+            {
+                "name": "Distance (5.2 miles)",
+                "price": 8.75
+            },
+            {
+                "name": "Time (12 min)",
+                "price": 3.25
+            },
+            {
+                "name": "Surge Pricing",
+                "price": 1.50
+            }
+        ]
+    },
+    "utility_bill_data": {
+        "name": "Mars City Utilities",
+        "address": "456 Power Ln, Mars City, MC 45678",
+        "email": "billing@marscityutils.com",
+        "items": [
+            {
+                "name": "Electricity (120 kWh)",
+                "price": 18.00
+            },
+            {
+                "name": "Water (10 units)",
+                "price": 12.50
+            },
+            {
+                "name": "Sewage Fee",
+                "price": 5.75
+            },
+            {
+                "name": "Service Charge",
+                "price": 3.00
+            }
+        ]
+    }
+}
